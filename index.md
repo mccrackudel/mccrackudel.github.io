@@ -3,6 +3,6 @@ Email: mccrack@udel.edu
 
 
 
-## Links
+## Links:
 
  Repo: [Portfolio Repository](https://github.com/mccrackudel/mccrackudel.github.io)
