@@ -1,8 +1,11 @@
 # Andrew McCracken CISC275 Portfolio 
-Email: mccrack@udel.edu
+## Email: 
+ mccrack@udel.edu
 
 
 
 ## Links:
 
- Repo: [Portfolio Repository](https://github.com/mccrackudel/mccrackudel.github.io)
+- Repo: [Portfolio Repository](https://github.com/mccrackudel/mccrackudel.github.io)
+- ChangeLog:
+- TODO List:
