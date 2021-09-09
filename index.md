@@ -6,6 +6,6 @@
 
 ## Links:
 
-- Repo: [Portfolio Repository](https://github.com/mccrackudel/mccrackudel.github.io)
-- ChangeLog:
+- [Portfolio Repository](https://github.com/mccrackudel/mccrackudel.github.io)
+- [ChangeLog](https://github.com/mccrackudel/mccrackudel.github.io/blob/main/Change%20Log)
 - TODO List:
