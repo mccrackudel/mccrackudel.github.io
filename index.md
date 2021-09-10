@@ -6,7 +6,7 @@
 ## Important Links:
 
 - [Portfolio Repository](https://github.com/mccrackudel/mccrackudel.github.io)
-- [ChangeLog](https://github.com/mccrackudel/mccrackudel.github.io/blob/main/Change%20Log)
+- [ChangeLog](ChangeLog.html)
 - [TODO](https://github.com/mccrackudel/mccrackudel.github.io/blob/main/TODO)
 
 
