@@ -16,3 +16,4 @@
 ### Links:
 
 - [First Website](Tutorials/basicWebpageHTML/firstWebpage.html)
+- [First Website with CSS styles](Tutorials/basicCSSTutorial/firstWebpage_addedCSS.html)
