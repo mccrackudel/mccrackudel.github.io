@@ -7,7 +7,7 @@
 
 - [Portfolio Repository](https://github.com/mccrackudel/mccrackudel.github.io)
 - [ChangeLog](ChangeLog.html)
-- [TODO](https://github.com/mccrackudel/mccrackudel.github.io/blob/main/TODO)
+- [TODO](TODO.html)
 
 
 
