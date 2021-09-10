@@ -15,4 +15,4 @@
 
 ### Links:
 
-- [First Website](mccrackudel.github.io/Tutorials/basicWebpageHTML/firstWebpage.html)
+- [First Website](/mccrackudel.github.io/Tutorials/basicWebpageHTML/firstWebpage.html)
