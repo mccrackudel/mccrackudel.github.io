@@ -19,5 +19,5 @@ else if(num === '5'){
     alert("You entered 5");
 }
 else{
-    alert("You entered something other than a number between 1 and 5")
+    alert(num);
 }
