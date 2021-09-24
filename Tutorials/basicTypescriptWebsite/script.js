@@ -4,6 +4,6 @@ var numVar = 22;
 var strVar = "Andrew McCracken";
 var boolVal = false;
 function greeter(person) {
-    return "hello, " + person;
+    return "Hello my name is " + person;
 }
-document.body.textContent = greeter(strVar);
+document.getElementById("helloID").innerHTML = greeter(strVar);

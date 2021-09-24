@@ -5,7 +5,7 @@ let strVar: string = "Andrew McCracken";
 let boolVal: boolean = false;
 
 function greeter(person){
-    return "hello, " + person;
+    return "Hello my name is " + person;
 }
 
-document.body.textContent = greeter(strVar)
+document.getElementById("helloID").innerHTML = greeter(strVar)
