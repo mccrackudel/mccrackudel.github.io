@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “It is tough having a woman as a boss because women are so emotional.”",
+    "answer": "I would ask them what they meant. As they provided examples I would try to help them see that people of all genders might have or express that emotion. I would note that we need leaders who can connect with and motivate employees and that their human characteristics help them do that!"
+  },
+  {
+    "id": 2,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “It is great to have women on teams, they’re so collaborative.”",
+    "answer": "I would say that I’ve heard the stereotype that women are more collaborative than men, but I haven’t seen any research documenting a pattern. From my experience, among people all genders some are more collaborative and some are less collaborative. Collaboration is important, so we might want to make sure each team has enough people who have strong collaboration skills, but someone’s gender would probably be a bad proxy for that."
+  },
+  {
+    "id": 3,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “women just aren’t interested in CS.”",
+    "answer": "I would ask if there might be other reasons we see relatively few women in CS, and if any of these reasons might lead to women expressing less interest in CS. I’d probably try to talk to them about who gets access to CS and who gets encouraged to pursue CS."
+  },
+  {
+    "id": 4,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “Brenda just needs to learn to be more confident.”",
+    "answer": "I would agree that I want the people around me to recognize how awesome they are! I would also explain that when I hear that women need to be more confident it sounds like women are broken and need to be fixed. I would ask them if we might be able to change some of our culture in tech so that women don’t have to display confidence in a particular way to be successful."
+  },
+  {
+    "id": 5,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says to a female colleague “you need to learn to be much more assertive. Don't take no for an answer!”",
+    "answer": "I would ask if they could imagine negative consequences that a woman could face for being perceived as too assertive. I might try to insert a joke that when I’m too assertive people tend to call me the B-word. I’d acknowledge think it might sometimes be helpful advice to be assertive, but as a woman I see it as a pretty tricky balancing act."
+  },
+  {
+    "id": 6,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “I don’t think she would be good for the leadership role. People find her intimidating.”",
+    "answer": "I would ask what they meant by intimidating. Sometimes it is intimidating when someone is totally amazing and accomplished. However, that seems like the right type of person for leadership! I would also introduce the idea that being intimidating might not be perceived as a weakness for a male leader."
+  },
+  {
+    "id": 7,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says to an Asian woman “You look so young, how could you be a manager/professor?”",
+    "answer": "I would probably mention a professional qualification of the person to explain that she got the job because of that. I might mention that describing her has ‘so young’ might be a compliment, but makes it seem like she isn’t competent."
+  },
+  {
+    "id": 8,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “She only got the job because she’s a woman.”",
+    "answer": "To understand their point and see what evidence they are drawing on, I would ask them what makes them say that. I might use this as an opportunity to discuss how gender stereotypes might cloud our judgement. For example, we might overestimate a candidate if the stereotypes about their gender – but not necessarily their skills – align with the requirements of the job."
+  },
+  {
+    "id": 9,
+    "kind": "Microagressions",
+    "prompt": "Your colleague seems to frequently interrupt your female colleagues.",
+    "answer": "I would probably try to intervene in the behavior by saying something like ‘oops – Brenda, I didn’t think you were finished with your point.’ If I have to intervene multiple times, it might make it easier to have a private conversation with the interrupter about the behavior."
+  },
+  {
+    "id": 10,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “The candidate didn’t seem like they’d be a good fit for the department culture.”",
+    "answer": "I would ask them to explain what part of our department culture they’re referring to and what about their interaction with the candidate made them think that. I’d probably try to explain how discussions of ‘fit’ can sometimes just mean that someone doesn’t fit the stereotypes in CS – and we certainly don’t want to use stereotypes in CS as a hiring criteria."
+  },
+  {
+    "id": 11,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “Explain it in a way your grandmother would understand.”",
+    "answer": "I would ask them what they mean. I would explain that we often think of older women and mothers or grandmothers as not technological or intelligent, but this is a little absurd."
+  },
+  {
+    "id": 12,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “We want diversity, but we don’t want to lower our standards.”",
+    "answer": "I would ask why they would assume we would need to lower our standards to increase diversity. I’d encourage them to be more explicit when we talk about diversity to fight the taboos of talking about race, class, gender, sexual orientation, and ability. I would challenge them to think about how we might reduce bias in our hiring/recruitment processes and create a more inclusive culture, which doesn’t sound like lower standards to me."
+  },
+  {
+    "id": 13,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “Women need family-friendly work environments.”",
+    "answer": "I would agree with them that family-friendly work environments are important. For example, our employees might be caregivers for children or parents. However, this is true for employees of all genders. Family-friendly work environments are something that could benefit everyone!"
+  },
+  {
+    "id": 14,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says to a colleague “Your name is so hard to pronounce. I’ll never remember it. Can I call you something else? ”",
+    "answer": "I would interrupt and say that I’m sure we can learn to pronounce their name! I would suggest we record them saying their name on our phones because learning to pronounce a person’s name is a way of showing respect."
+  },
+  {
+    "id": 15,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “There isn’t much we can do about women in tech. It is a pipeline problem.”",
+    "answer": "I would say that the pipeline is really important. However, sometimes talking about ‘the pipeline problem’ distracts us from the problems in our portion of the pipeline, which is where we have the most potential for impact. If it seems like a problem that can’t be solved we might let ourselves off the hook!"
+  },
+  {
+    "id": 16,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says to a female colleague “Is your husband babysitting?”",
+    "answer": "I might say ‘do you mean parenting?’ Or I might jokingly ask if her husband has a part-time job babysitting other people’s kids. I would try to work in the idea that frequently women, but not men, are seen as shirking their parenting responsibilities when they participate in the workforce."
+  },
+  {
+    "id": 17,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “There are so few Black and Latinx students in CS, it is a lot easier for them to get CS jobs.",
+    "answer": "I would ask them if there might be any reasons that Black and Latinx students have a harder time getting a CS job. I’d probably try to introduce how research about implicit bias suggests that Black and Latinx students would be less likely to be recognized as a good candidate."
+  },
+  {
+    "id": 18,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “Programs for certain groups are divisive and unfair to others.”",
+    "answer": "I would ask what might motivate someone to create a program for certain groups. If they didn’t mention it, I’d point out the potential for these programs to promote belonging, which is important for student learning and employee retention! I’d probably try to introduce the difference between equality, where everyone gets the same thing, and equity, where everyone gets what they need."
+  },
+  {
+    "id": 19,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “Jack says he uses the pronoun ‘they,’ but I told him that it isn’t grammatically correct.”",
+    "answer": "I would say that English is always evolving and the singular they has been accepted for a while. However, if they don’t feel comfortable with that they can just use Jack’s name; pronouns can be avoided. I would also state unequivocally that if Jack uses the pronouns they/them, we shouldn’t refer to Jack using he/him."
+  },
+  {
+    "id": 20,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “Sexism used to be so much worse. People these days make a big deal about the smallest things!”",
+    "answer": "I would agree with them that things have gotten better and that some of the things we talk about regarding sexism are small things. However, repeated exposure to these small things can add up and lead to measurable effects."
+  },
+  {
+    "id": 21,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “I would think women would like working in tech with men. Lots of dating options!”",
+    "answer": "I would say that I assume that people of all genders are doing tech because of their interests in the work, not the dating options. I’d also mention that some of the women probably aren’t interested in dating men, and I try not to assume that people are heterosexual. I can imagine if women have to deal with a lot of romantic advances at work, it could get pretty annoying. The media often portrays women as sexual objects, but I hope that in tech we can do a lot better than that!"
+  },
+  {
+    "id": 22,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “People should just tell me if I say something that offends them.”",
+    "answer": "I would acknowledge that is it awesome to recognize that everyone makes mistakes and that they want to learn from them! I would point out that it can be difficult for people to share this with them because of power dynamics or concerns that the feedback won’t be well received. I’d encourage them to read stories online to help them recognize ways in which their words might have an unintentionally negative impact."
+  },
+  {
+    "id": 23,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “Her kids are in daycare ALL day.”",
+    "answer": "I might try to make a joke that it is a good thing because certainly her kids are too young to go without adult supervision. I might push back by saying that every family has to figure out what is going to work for them and that it isn’t our business. I might also ask if they would make the same comment about a man with children."
+  },
+  {
+    "id": 24,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “If anyone works hard, they’ll be able to get ahead.”",
+    "answer": "I would say that certainly to get ahead it requires a lot of work. However, sometimes the cards are stacked in some people’s favor. I might try to introduce the idea of privilege, which is an unearned, unasked for advantage. I would identify some of my privileges and explain that this doesn’t mean I didn’t work hard for my accomplishments."
+  },
+  {
+    "id": 25,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “I can’t be racist, I’m a good person.”",
+    "answer": "I would try to reassure them that I agree that they are a good person. I would explain that research shows that stereotypes can produce unconscious, unintentional bias. This bias is really different than intentional prejudice, which is what we normally think of as racism. Unfortunately, we are all exposed to negative racial stereotypes, which means we might all have racial biases."
+  },
+  {
+    "id": 26,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says about a female colleague “If she keeps working this hard, she’ll never find a husband.”",
+    "answer": "I might point out that work can provide fulfillment and that it is important to not assume that all women are interested in marriage or getting married to a man. I might mention that I can’t imagine someone saying that about a man, and marriage isn’t only of interest to women."
+  },
+  {
+    "id": 27,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “I think people would take her more seriously if she didn’t wear so much make-up.”",
+    "answer": "I’d probably comment that her professionalism and work performance should probably determine how seriously people take her. I might ask why make-up might make people take her less seriously."
+  },
+  {
+    "id": 28,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says to you “I think your comment was sexist. I’m offended.”",
+    "answer": "I would say that I was sorry. I would listen to them and then confirm my understanding with them to make sure I heard them correctly and that they feel heard. I would tell them how I plan to change my behavior so that this doesn’t happen again. I would resist the urge to tell them that I didn’t mean to offend them because my intentions don’t matter—just my impact."
+  },
+  {
+    "id": 29,
+    "kind": "Microagressions",
+    "prompt": "Your colleague says “This PC stuff has gotten out of hand. People just need to be less sensitive.”",
+    "answer": "I would say that with all of the changing standards for language, I am always worried about saying the wrong thing. I would say that I assume we both value not hurting people with our words (because that seems like it would be difficult for them to disagree with.) I might get an example from them and try to help them understand how this example of non-PC language is dehumanizing even if it is unintentional and covert."
+  },
+  {
+    "id": 30,
+    "kind": "Microagressions",
+    "prompt": "An Asian colleague says \"An all White search committee hired me, so there must not be racism.",
+    "answer": "I would clarify that unconscious, unintentional, implicit bias might shape our evaluations of candidates even if we aren't aware. That might not be what we think of when we think of racism, but it is important for search committee to adopt practices to mitigate implicit bias."
+  },
+  {
+    "id": 31,
+    "kind": "Microagressions",
+    "prompt": "Someone tells you that you used the wrong gender pronoun to refer to them.",
+    "answer": "I would say I was sorry and thank them for correcting me. I wouldn't assume they would want to have a lengthy conversation about it. I might practice using their correct pronoun by telling a positive story about them to a friend or even just practicing some sentences by myself."
+  },
+  {
+    "id": 32,
+    "kind": "Microagressions",
+    "prompt": "Your Jewish colleague tells you that you've scheduled an important lunch meeting on Yom Kippur.",
+    "answer": "I would say I was sorry and do my best to move the meeting. I would read more about the significance of Yom Kippur and the practice of fasting on this important Jewish holiday. I would add Yom Kippur to my calendar for the next few years to avoid this mistake in the future."
+  },
+  {
+    "id": 33,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"It is tough working in an environment with a lot of women, women just don't work well with other women; they get too competitive.",
+    "answer": "I would say that this definitely aligns with the stereotypes I hear about women, but I expect that it is just a stereotype. The stereotype may thrive on confirmation bias, where we see examples consistent with the stereotype as evidence, but see counter examples as anomalies."
+  },
+  {
+    "id": 34,
+    "kind": "Microagressions",
+    "prompt": "In a workplace discussion of racism, a White woman starts to cry and the room redirects their attention to comfort her.",
+    "answer": "This is tricky because there is a pattern of White women's comfort being prioritized over the needs and lives of Black people. I might say that I know she doesn't mean to distract from the conversation about racism, but that it might be helpful for her to take a brief break and leave the room."
+  },
+  {
+    "id": 35,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"I don't have a racist bone in my body.",
+    "answer": "I would ask them if they had heard about implicit bias. I would share my experience of reading about implicit bias and initially assuming that I couldn't be part of these patterns. However, I found the Harvard Implicit Association test helpful in recognizing that I and others have unconscious, unintentional biases that may shape our thinking."
+  },
+  {
+    "id": 36,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"Early facial detection didn't work for Black people's faces because there were no Black engineers on the team. We need to hire Black engineers.",
+    "answer": "I might point out that the engineers probably realized that humans' faces vary in color, but the photos they developed their models on were mainly of White faces. I would argue that it was likely a financial decision, which an engineer is probably not well positioned to affect. And we can't rely on people who are negatively impacted by a decision to argue on their own behalf. Everyone in the organization is responsible."
+  },
+  {
+    "id": 37,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"We just need to hire the best and the brightest.",
+    "answer": "I would state that I wish we had a measuring stick we could evaluate all candidates with. However, research about implicit bias suggests that our evaluations of candidates are shaped by stereotypes. For example, we might perceive a White man as a more natural leader and might underestimate the intellectual capabilities of women and people of color of all genders ."
+  },
+  {
+    "id": 38,
+    "kind": "Microagressions",
+    "prompt": "A colleague comments about a Black woman \"I don't know why she is always so angry.",
+    "answer": "I would say that Black women are often perceived as angry even when a White woman would not be perceived as angry if she behaved the same way. I would state that this happens because of false stereotypes about Black women that create unconscious, unintentional biases and shape our perceptions of their behaviors."
+  },
+  {
+    "id": 39,
+    "kind": "Microagressions",
+    "prompt": "A colleague refers to a Black person as an Oreo, Black on the outside and White on the inside.",
+    "answer": "I would mention that even though they didn't intend it, their comment is harmful. I would explain how it reinforces negative stereotypes about Black people and falsely questions the person's racial identity."
+  },
+  {
+    "id": 40,
+    "kind": "Microagressions",
+    "prompt": "A colleague compliments an already thin coworker for losing weight, but this coworker hadn't mentioned trying to lose weight.",
+    "answer": "I would probably try to change the topic in the moment and mention to them after the fact that commenting on this seems to reinforce the idea that being really thin is valuable. I might note that weight loss can sometimes be unintentional and related to a health problem, which makes complimenting weight loss additionally inappropriate."
+  },
+  {
+    "id": 41,
+    "kind": "Microagressions",
+    "prompt": "A colleague expresses concern that one of the job applicants seems like she might decide to have a baby.",
+    "answer": "I would remind them that this is illegal to consider in hiring. I would state that we are hoping to hire a human, and humans typically have lives outside of work. We wouldn't ask our employees if they have any aging parents that they might need to care for."
+  },
+  {
+    "id": 42,
+    "kind": "Microagressions",
+    "prompt": "A colleague comments on your young daughter's clothing and appearance.",
+    "answer": "I might interrupt them and mention a hobby of hers or something she was recently learning. I would want to give them something to talk to her about other than her appearance because complimenting girls for their appearance reinforces the idea that women's value is based on their attractiveness."
+  },
+  {
+    "id": 43,
+    "kind": "Microagressions",
+    "prompt": "A colleague describes a new coworker as having an exotic appearance.",
+    "answer": "I would ask them what they meant by exotic, and I would explain why the word exotic might unintentionally make it seem like this person isn't part of our community. I might also mention that stereotypes of women of color as hypersexual have been used to justify violence and sometimes the word exotic has been used in those stereotypes."
+  },
+  {
+    "id": 44,
+    "kind": "Microagressions",
+    "prompt": "A colleague comments that the Black people always sit together in the cafeteria.",
+    "answer": "I would note that there are surely groups of all White people sitting together, but we might not notice that. I would mention that Dr. Beverly Tatum, psychologist and former college president, has a book with a title almost identical to their statement. Her book explains the processes of racial identity development in the U.S. and sheds light on this question."
+  },
+  {
+    "id": 45,
+    "kind": "Microagressions",
+    "prompt": "A colleague says that women won't make it in tech if they don't develop a thicker skin.",
+    "answer": "I might agree, but suggest that we should focus on how we could create environments where  women don't need to develop a thick skin to be successful. If we don't focus on the structures that produce this need, we can't fix them."
+  },
+  {
+    "id": 46,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"We do a lot to hire women, but then they just leave; it isn't worth it.",
+    "answer": "I would ask if they had thought about why women were leaving and mention research that women who leave a tech workplace are more likely to have experienced bias. I would agree that recruiting might not be as important as improving their company culture."
+  },
+  {
+    "id": 47,
+    "kind": "Microagressions",
+    "prompt": "A colleague tells a racist joke in front of a Black person.",
+    "answer": "I would quickly say “Wow” in a tone that expresses disapproval. I would make eye contact with people in the group who I thought were most impacted by the joke. If they wanted to address it, I would nod along to support them because being an ally means not speaking for people who don't need you to do so. Otherwise, I would explain why the joke wasn't funny or okay."
+  },
+  {
+    "id": 48,
+    "kind": "Microagressions",
+    "prompt": "A colleague says that because of this me-too stuff, he can't compliment women.",
+    "answer": "I would say that compliments are still okay, but that I define a compliment as a positive thing about something a person has control over. Therefore, it isn't a compliment if I comment on someone's body, hair, voice, or accent."
+  },
+  {
+    "id": 49,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"You can't be a computer scientist, you're a people person.",
+    "answer": "I would ask them why they assume that people-people aren't an asset to the field. I would mention that sometimes people conflate personality traits with requirements of the field, but those are just based upon stereotypes and not research."
+  },
+  {
+    "id": 50,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"We don't have to worry about disabilities, because no one in our workplace has a disability.",
+    "answer": "I would mention that a lot of disabilities are invisible, and someone's disability status can change over their lifetime. I would argue that we need to create an environment where employees can tell us what they need to be able to best do their job."
+  },
+  {
+    "id": 51,
+    "kind": "Microagressions",
+    "prompt": "A colleague says \"We should only hire students who have side projects posted on GitHub, because that shows that they're passionate about CS.",
+    "answer": "I would ask if this might mean we miss out on candidates who have had to work during college because they might not have time for a coding side project. I would also ask if there are ways that hiring engineers with non-coding hobbies might also enrich our work environment."
+  },
+  {
+    "id": 52,
+    "kind": "Microagressions",
+    "prompt": "Wild card: What did we miss? Come up with your own problematic statement.",
+    "answer": "I understand that these cards are necessarily biased by my experiences. I welcome your feedback and encourage you to discuss the important topics that are relevant for you."
+  },
+  {
+    "id": 53,
+    "kind": "TeachingEasy",
+    "prompt": "No one needs help when you arrive to your office hours (or open lab hours).",
+    "answer": "Every 10 minutes I would check in with everyone and offer help. While I wait, I would grade (if possible) and review the current or next homework assignment."
+  },
+  {
+    "id": 54,
+    "kind": "TeachingEasy",
+    "prompt": "A student asks for help with their code, then goes on their phone while you are looking at the code.",
+    "answer": "I might take a few deep breaths and then say \"hey - I'm excited to help you, but going on your phone makes me feel like you don't appreciate my help."
+  },
+  {
+    "id": 55,
+    "kind": "TeachingEasy",
+    "prompt": "A student is being frustrating and rude when asking you for help.",
+    "answer": "I might take a few deep breaths and then say \"I'm sorry - it seems like you're feeling frustrated. I've been in a similar situation and felt frustrated. However, the way you asked the question didn't feel very respectful."
+  },
+  {
+    "id": 56,
+    "kind": "TeachingEasy",
+    "prompt": "Your office hours (or open lab hours) never have any students.",
+    "answer": "I would email the class to encourage them to come to my tutoring hours and let the prof know that students haven’t been coming. I would ask a friend to sit in on my class to see how I might be more welcoming."
+  },
+  {
+    "id": 57,
+    "kind": "TeachingEasy",
+    "prompt": "A student compares their abilities to yours and is feeling inadequate.",
+    "answer": "I would share with them times where I struggled and felt intimidated by others. I would assure them that I have learned a lot by teaching other people this content.   And I would remind them that we are at different stages in our journeys."
+  },
+  {
+    "id": 58,
+    "kind": "TeachingEasy",
+    "prompt": "A student becomes overwhelmed and cries because their code isn't working.",
+    "answer": "I would empathize and say that I have had similar experience. I would ask them if they want to take a break, talk about how they're feeling, or dive into debugging. If relevant, I would encourage them to get enough sleep because research suggests that staying up late to finish work is usually counterproductive."
+  },
+  {
+    "id": 59,
+    "kind": "TeachingEasy",
+    "prompt": "You realize that students have very different levels of prior CS experience in your class.",
+    "answer": "I would explain that some students have more experience than is required by the prerequisites for the course. I would apologize to these students that lecture and homework assignments will focus on students who do not have this extra experience. I would also point interested students to resources with additional explanations or practice."
+  },
+  {
+    "id": 60,
+    "kind": "TeachingEasy",
+    "prompt": "A student tells you they have read the book five times, but that they are still struggling in class.",
+    "answer": "I would empathize and share my experience that sometimes rereading the book isn't helpful. If relevant, I would share that it is normal to find the content difficult to learn. I would try to help them identify other resources to help them learn and practice the material."
+  },
+  {
+    "id": 61,
+    "kind": "TeachingEasy",
+    "prompt": "A student seems to want you to just tell them the answer.",
+    "answer": "I would pause and say that I'm worried about accidentally telling them the answer. I would explain that I want to help them be successful in the course, but have to be careful. I would offer to work through a related problem with them where I can show them the steps and tell them the answer."
+  },
+  {
+    "id": 62,
+    "kind": "TeachingEasy",
+    "prompt": "A student or TA says \"I haven't slept for more than 4 hours all week and I haven't been eating lunch.",
+    "answer": "I would express concern. I would share a story of how I thought I could get more done by losing sleep, but it was actually counterproductive. If it seemed relevant, I would also tell them about resources in the community for people who don't have reliable access to food."
+  },
+  {
+    "id": 63,
+    "kind": "TeachingEasy",
+    "prompt": "Students are asking for help past the end of your scheduled lab time.",
+    "answer": "I would say that I wish I could help them, but needed to leave. I would remind them of resources they could use to get help such as asking other students in the class or posting on Piazza. I would remind them that I'm a student just like them, and also have classes I am studying for."
+  },
+  {
+    "id": 64,
+    "kind": "TeachingEasy",
+    "prompt": "A student got frustrated working on an assignment and started crying. They said they won't be able to finish it in time.",
+    "answer": "I would be empathetic and say I was sorry. I would admit that this had happened to me and that I found it stressful. I would acknowledge that they might not be able to complete it before it was due, but I could still help them learn the material."
+  },
+  {
+    "id": 65,
+    "kind": "TeachingEasy",
+    "prompt": "A student complains about their grade on an assignment.",
+    "answer": "I would make sure I understood their complaint and perhaps share a time where I felt frustrated or surprised by my grade. If there weren't any errors in how they were graded, I would explain that for this term, it wouldn't be possible to change the rubric. I would thank them for their feedback, which could help me improve the rubric in the future."
+  },
+  {
+    "id": 66,
+    "kind": "TeachingEasy",
+    "prompt": "A fellow TA is constantly on their phone rather than paying attention to students during lab.",
+    "answer": "I would mention to them that I had noticed this as a pattern and worry that students might not feel as comfortable asking for help. I would encourage them to set a timer to check in with students - even if the students weren't asking for help. I would also mention the conversation to the professor."
+  },
+  {
+    "id": 67,
+    "kind": "TeachingEasy",
+    "prompt": "A student asks you if they should drop the class.",
+    "answer": "I would ask them why they are thinking about dropping the class. I would try to help them identify relevant pros and cons. I might reassure them that finding the content difficult is normal. I would avoid making a recommendation because I would not want any unconscious biases I might have to impact their decision (e.g. biases about gender, race, ethnicity)."
+  },
+  {
+    "id": 68,
+    "kind": "TeachingEasy",
+    "prompt": "A student is really frustrated and has a syntax error.",
+    "answer": "I'd read the syntax error with them and help identify the line of code that it is referring to. If it is a spelling or tiny syntax error, I'd point it out to them, but otherwise I'd help them search the Internet for the answer because learning to search the Internet to solve a coding problem is an important skill to develop."
+  },
+  {
+    "id": 69,
+    "kind": "TeachingEasy",
+    "prompt": "You’ve exhausted all of your strategies and can’t figure out a bug in a student’s code",
+    "answer": "First, I would ask another TA. Then I would see if anyone else in the lab has taken that class and can help. Then I would encourage them to post on piazza or email the instructor. I would also do these things if someone asked me a question from a class I hadn’t taken (or didn’t remember!)"
+  },
+  {
+    "id": 70,
+    "kind": "TeachingEasy",
+    "prompt": "If a student says \"I hate myself, and I suck at everything",
+    "answer": "I would tell them that I noticed that they seem down. I would empathize and say I have had similar feelings in the past. I would say that talking to friends has been helpful to me. I would  say that the campus has people you can talk to about managing stress and anxiety and that lots of students find those resources helpful."
+  },
+  {
+    "id": 71,
+    "kind": "TeachingEasy",
+    "prompt": "A student says that they don’t know how to get started when approaching a problem",
+    "answer": "I'd ask them to describe the problem they're working on and maybe ask them to describe the input and output and relationship between the two. I'd ask them to come up with a small example that they could write some test cases for or try by hand. I might suggest a simpler, related problem that we could solve together first."
+  },
+  {
+    "id": 72,
+    "kind": "TeachingEasy",
+    "prompt": "A student is upset because they think the professor hasn't adequately prepared them for an assignment.",
+    "answer": "I would listen to them to make sure I understood their concern and say I was sorry. I would listen sympathetically, but would avoid agreeing with them to avoid disrespecting the professor. I would tell them that the professor would likely find their feedback helpful and ask if they had provided it or would want me to provide it anonymously."
+  },
+  {
+    "id": 73,
+    "kind": "TeachingEasy",
+    "prompt": "A major lab is due tonight, and a student asks \"I don't know how to get started; can you help?",
+    "answer": "I would explain to the student that it might be tough to complete the assignment before it is due, but that I can offer some pointers on getting started.  I'd point out that even if they don't complete the assignment before the deadline, it's probably important to complete it in order to be prepared for the exam."
+  },
+  {
+    "id": 74,
+    "kind": "TeachingEasy",
+    "prompt": "A student has tons of compilation errors and asks for help.",
+    "answer": "I would suggest to the student that they work on one compilation error at a time, starting from the top. Focus not only on the line number indicated, but the code above it.  I would explain that often one error can result in a cascade of error messages, and that if they tackle one syntax error at a time, it may not be nearly as bad as it appears."
+  },
+  {
+    "id": 75,
+    "kind": "TeachingEasy",
+    "prompt": "Students in your class seem embarrassed when they get something wrong.",
+    "answer": "I would draw attention to it when I made mistakes in class. I would practice responding to incorrect answers in a way that suggests that incorrect answers are normal on the path to learning. Before asking students to speak in class, I'd give them a minute to chat with a neighbor, which can help them get a right answer or I could overhear who has a right answer that I can call on."
+  },
+  {
+    "id": 76,
+    "kind": "TeachingEasy",
+    "prompt": "You catch a student copying another student's homework. It is due in 20 minutes and they are in a panic.",
+    "answer": "I would ask to speak with them where other students wouldn't hear. I would say that it appeared that they had been copying another student's homework and that it is my responsibility to report this. If they became upset, I would apologize, but repeat that this was a requirement of my job and I could get in trouble for not reporting it."
+  },
+  {
+    "id": 77,
+    "kind": "TeachingEasy",
+    "prompt": "During class a student with a lot of prior CS experience asks questions about advanced topics outside of the scope of the class content.",
+    "answer": "I would say ‘That’s an interesting question, but way beyond what we’ll cover in this class. I’m happy to chat with you about this after class, but if I were in this class, I’d be intimidated even hearing this question. I’m sure that wasn’t your intention, but everyone else – don’t worry if that question didn’t make sense."
+  },
+  {
+    "id": 78,
+    "kind": "TeachingEasy",
+    "prompt": "You observe a TA being dismissive of a student asking for help, saying \"your problem is you just don't know how to use Unix",
+    "answer": "I would say something like \"Oh - I'm sure you didn't mean for your comment to sound like it sounded to me.\" I would be cautious because they might perceive me as being judgmental, but I would want to send a clear message to the student that TAs are there to be helpful and that this TA's comment wasn't helpful."
+  },
+  {
+    "id": 79,
+    "kind": "TeachingEasy",
+    "prompt": "You see two students pair programming, but only one of them is working.",
+    "answer": "I would say I had noticed that they hadn't swapped drivers recently and encourage them to set a timer so they can remember. I would share that sometimes when pair programming I didn't feel comfortable asking questions and other times I didn't realize I needed to encourage my partner to ask questions.  I would also encourage them to do a web search on \"strong-style pairing\" and invite them to try it."
+  },
+  {
+    "id": 80,
+    "kind": "TeachingEasy",
+    "prompt": "A student says they had a negative experience in a class based upon their gender.",
+    "answer": "I would interrupt and explain that depending upon the situation, I might be required to report it to the campus. I would tell them about people who aren't mandatory reporters, who can also connect them with resources such as the Title IX office, which handles gender discrimination. If it doesn't fall under mandatory reporting, I would offer to help resolve the situation."
+  },
+  {
+    "id": 81,
+    "kind": "TeachingEasy",
+    "prompt": "A student reports that their team member hasn't been following through on their assigned tasks.",
+    "answer": "I would ask them if they had talked to their team member about it and explained how it had impacted the rest of the team. I would encourage them to troubleshoot with the other student to see if there were things that could help them follow through (e.g., scheduling working team meetings or creating clearer subtasks).  I would encourage them to bring this up with the instructor if the situation did not improve."
+  },
+  {
+    "id": 82,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “Explain it in a way your grandmother would understand.”",
+    "answer": "I would ask them what they mean. I would explain that we often think of older women and mothers or grandmothers as not technological or intelligent, but this is a little absurd."
+  },
+  {
+    "id": 83,
+    "kind": "TeachingHard",
+    "prompt": "Someone says about an Asian woman “She looks so young;  I can't believe she's a professor!”",
+    "answer": "I would probably mention a professional qualification of the person to explain that she got the job because of that. I might mention that describing her has ‘so young’ might be a compliment, but makes it seem like she isn’t competent."
+  },
+  {
+    "id": 84,
+    "kind": "TeachingHard",
+    "prompt": "Someone seems to frequently interrupt women when they are speaking.",
+    "answer": "I would probably try to intervene in the behavior by saying something like ‘oops – Brenda, I didn’t think you were finished with your point.’ If I have to intervene multiple times, it might make it easier to have a private conversation with the interrupter about the behavior."
+  },
+  {
+    "id": 85,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “women just aren’t interested in CS.”",
+    "answer": "I would ask if there might be other reasons we see relatively few women in CS, and if any of these reasons might lead to women expressing less interest in CS. I’d probably try to talk to them about who gets access to CS and who gets encouraged to pursue CS."
+  },
+  {
+    "id": 86,
+    "kind": "TeachingHard",
+    "prompt": "Someone says: “Sexism used to be so much worse. People these days make a big deal about the smallest things!”",
+    "answer": "I would agree with them that things have gotten better and that some of the things we talk about regarding sexism are small things. However, repeated exposure to these small things can add up and lead to measurable effects."
+  },
+  {
+    "id": 87,
+    "kind": "TeachingHard",
+    "prompt": "A student says \"You made me feel stupid for asking that question.",
+    "answer": "I would listen to them and make sure that they feel heard. I would say I was sorry. I would resist the urge to tell them \" I didn’t mean to make you feel stupid.\" The impact of my words matters even if the impact doesn't align with my intentions."
+  },
+  {
+    "id": 88,
+    "kind": "TeachingHard",
+    "prompt": "A student says that it's unfair that some students get extra time on exams just because they have a \"so-called disability.",
+    "answer": "I would explain that we are required by law to provide students \"reasonable accommodations.\" I would empathize that I've taken tests where extra time might have helped, but explain that it's different when a professional has certified that someone needs extra time to show what they know."
+  },
+  {
+    "id": 89,
+    "kind": "TeachingHard",
+    "prompt": "A TA says “It is tough TA-ing for a female professor because women are so emotional.”",
+    "answer": "I would ask them what they meant. As they provided examples I would try to help them see that people of all genders might have or express that emotion. I would note that we need leaders who can connect with and motivate employees and that their human characteristics help them do that!"
+  },
+  {
+    "id": 90,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “This PC stuff has gotten out of hand. People just need to be less sensitive.”",
+    "answer": "I would say that I assume we both value not hurting people with our words (because that would be difficult for them to disagree with.) I might get an example from them and try to help them understand how this example of non-PC language is dehumanizing even if it is unintentional and covert."
+  },
+  {
+    "id": 91,
+    "kind": "TeachingHard",
+    "prompt": "Brenda doesn't speak up much during class.   A TA says: \"Brenda just needs to learn to be more confident.",
+    "answer": "I would say that when I hear that someone \"needs to be more confident\"  it sounds like the person needs to be fixed. I would ask them if we might be able to change some of our culture in our classes so that people don’t have to display confidence to be successful."
+  },
+  {
+    "id": 92,
+    "kind": "TeachingHard",
+    "prompt": "Someone says to an international student: “Your name is so hard to pronounce. I’ll never remember it. Can I call you something else? ”",
+    "answer": "I would interrupt and say that I’m sure we can learn to pronounce their name! I would suggest we record them saying their name on our phones because learning to pronounce a person’s name is a way of showing respect.  (Also: this can happen with domestic students too)."
+  },
+  {
+    "id": 93,
+    "kind": "TeachingHard",
+    "prompt": "A student is asking for help; you have trouble understanding their accent",
+    "answer": "I would tell them that I'm sure I'll get better at understanding them, but that I'm having difficulty understanding them right now. I would see if asking them to write down their question and then writing down my answer was helpful to our mutual understanding.  I would chat with them about non-class things to get more practice communicating with them."
+  },
+  {
+    "id": 94,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “I can’t be racist! I’m a good person.”",
+    "answer": "I would try to reassure them that I agree that they are a good person. I would explain that research shows that stereotypes can produce unconscious, unintentional bias. This bias is really different than intentional prejudice, which is what we normally think of as racism. Unfortunately, we are all exposed to negative racial stereotypes, which means we all may have racial biases."
+  },
+  {
+    "id": 95,
+    "kind": "TeachingHard",
+    "prompt": "A students says \"There are so few Black and Latinx students in CS; it is a lot easier for them to get CS jobs.",
+    "answer": "I would ask them if there might be any reasons that Black and Latinx students have a harder time getting a CS job. I’d probably try to introduce how research about implicit bias suggests that Black and Latinx students would be less likely to be recognized as a good candidate."
+  },
+  {
+    "id": 96,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “Jack says he uses the pronoun ‘they,’ but I told him that it isn’t grammatically correct.”",
+    "answer": "I would say that English is always evolving and the singular they has been accepted for a while. However, if they don’t feel comfortable with that they can just use Jack’s name; pronouns can be avoided. However, I would state unequivocally that if Jack uses the pronouns they/them, we shouldn’t refer to Jack using he/him."
+  },
+  {
+    "id": 97,
+    "kind": "TeachingHard",
+    "prompt": "Students in your class laughed when students answered a question incorrectly.",
+    "answer": "In the moment, I might make eye contact with the students who laughed and say \"not cool.\" As class ended or when a student is doing group work, I would ask them to stay after to chat. In chatting, I'd reassure them that I didn't think they meant to be hurtful, but that the classroom is for learning and laughing at incorrect answers isn't okay."
+  },
+  {
+    "id": 98,
+    "kind": "TeachingHard",
+    "prompt": "A student says they’re just not a CS person",
+    "answer": "I would ask them to explain what they mean. A lot of times people assume that they’re the only person who is struggling, so I would tell them about times that I have struggled. I would also point out that in every class there are people with really different levels of previous experience, which can sometimes make you feel like you’re behind, when you really aren't."
+  },
+  {
+    "id": 99,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “It is great to have women on teams, they’re so collaborative.”",
+    "answer": "I would say that I’ve heard the stereotype that women are more collaborative than men, but I haven’t seen any research documenting a pattern. Some people are more collaborative and some are less collaborative independent of gender. Collaboration is important, so we might want to make sure each team has people with strong collaboration skills, but gender is a bad proxy for that."
+  },
+  {
+    "id": 100,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “scholarships and student organizations for certain groups are divisive and unfair to others.”",
+    "answer": "I would ask what might motivate someone to create a program for certain groups. If they didn’t mention it, I’d point out the potential for these programs to promote belonging, which is important for student learning and employee retention! I’d probably try to introduce the difference between equality, where everyone gets the same thing, and equity, where everyone gets what they need."
+  },
+  {
+    "id": 101,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “People should just tell me if I say something that offends them.”",
+    "answer": "I would acknowledge that it's awesome that want to hear feedback about their mistakes! I would point out that it can be difficult for people to share this with them because of power dynamics or concerns that the feedback won’t be well received. I’d encourage them to read stories online to help them recognize ways in which their words might have an unintentionally negative impact."
+  },
+  {
+    "id": 102,
+    "kind": "TeachingHard",
+    "prompt": "A student says: \"Girls in CS classes must get asked out all the time. So many guys. Must be great!",
+    "answer": "I would explain that the media often portrays women as sexual objects, but my assumption is that students take my class to learn CS. Responding to the advances of their peers might get in the way of that learning. Also: some of the women may not be interested in dating men; I try not to assume that all of my students are heterosexual."
+  },
+  {
+    "id": 103,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “We want diverse TAs, but we don’t want to lower our standards.”",
+    "answer": "I would ask why they assume we would need to lower standards to increase diversity. I would challenge them to think about how we might reduce bias in our hiring/recruitment processes and create a more inclusive culture, none of which involves lowering standards. I’d encourage them to be more explicit when we talk about diversity to fight the taboos of talking about race, class, gender, sexual orientation, and ability."
+  },
+  {
+    "id": 104,
+    "kind": "TeachingHard",
+    "prompt": "Someone says “If anyone works hard, they’ll be able to get ahead.”",
+    "answer": "I would say that certainly to get ahead it requires a lot of work. However, sometimes the cards are stacked in some people’s favor. I might try to introduce the idea of privilege, which is an unearned, unasked for advantage. I would identify some of my privileges and explain that this doesn’t mean I didn’t work hard for my accomplishments."
+  },
+  {
+    "id": 105,
+    "kind": "TeachingHard",
+    "prompt": "A student says \"Diversity is good, but the CS department shouldn't water down the content.",
+    "answer": "I would ask why they would assume we would need to water down the content to increase the diversity in our classes. I would challenge the assumption that more engaging and accessible content can’t still accomplish the same learning goals. I’d encourage them to be more explicit when we talk about diversity to fight the taboos of talking about race, class, gender, and sexual orientation."
+  }
+]
