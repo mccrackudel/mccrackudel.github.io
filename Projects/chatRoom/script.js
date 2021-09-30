@@ -1,4 +1,8 @@
 const username = prompt("Enter Name:");
+
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+
 const firebaseConfig = {
     apiKey: "AIzaSyAe-7uubNezkH5Zw_b2qdQemAjJ3z5o5DA",
     authDomain: "cisc275chatroom.firebaseapp.com",
