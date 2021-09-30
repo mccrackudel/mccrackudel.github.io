@@ -15,9 +15,8 @@ const firebaseConfig = {
   };
   
   // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
+  const database = initializeApp(firebaseConfig);
 
-  const database = firebase.database;
 
   
   document.getElementById("submitButton").addEventListener("submit", sendMessage);
