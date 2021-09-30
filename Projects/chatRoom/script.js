@@ -2,6 +2,7 @@ const username = prompt("Enter Name:");
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.1/firebase-app.js";
 import * as fb from  "https://www.gstatic.com/firebasejs/9.0.1/firebase-database.js";
+
 const firebaseConfig = {
     apiKey: "AIzaSyAe-7uubNezkH5Zw_b2qdQemAjJ3z5o5DA",
     authDomain: "cisc275chatroom.firebaseapp.com",
@@ -15,7 +16,6 @@ const firebaseConfig = {
   
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
 
   const database = firebase.database;
 
