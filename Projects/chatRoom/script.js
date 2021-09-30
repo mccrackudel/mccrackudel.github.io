@@ -40,7 +40,7 @@ const firebaseConfig = {
       message,
     });
   }
-
+/*
   const fetchChat = database.ref("messages/");
 
   fetchChat.on("child_added", function (snapshot){
@@ -51,3 +51,4 @@ const firebaseConfig = {
   // append the message on the page
   document.getElementById("chatBox").innerHTML += message;
   });
+  */
