@@ -1,4 +1,4 @@
-
+const username = prompt("Enter Name:");
 const firebaseConfig = {
     apiKey: "AIzaSyAe-7uubNezkH5Zw_b2qdQemAjJ3z5o5DA",
     authDomain: "cisc275chatroom.firebaseapp.com",
@@ -16,7 +16,7 @@ const firebaseConfig = {
 
   const database = firebase.database;
 
-  const username = prompt("Enter Name:");
+  
   document.getElementById("submitButton").addEventListener("submit", sendMessage);
 
   function sendMessage(e) {
