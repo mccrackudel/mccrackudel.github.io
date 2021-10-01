@@ -21,4 +21,8 @@
 - [First Website with cSS styles and basic typescript](Tutorials/basicTypescriptWebsite/firstWebpage_addedTS.html)
 - [Code import demo](Demos/gameImportDemo/index.html)
 - [Chat Room Unfinished](Projects/chatRoom/chatRoom.html)
+- [Basic React Deployed](https://mccrackudel.github.io/deploymentTest/)
 
+### Other Iems:
+- incomplete chatRoom react
+- 
